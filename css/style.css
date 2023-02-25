@@ -1,0 +1,10 @@
+.wrapper{
+	width:60%;
+	margin: 0 auto;
+    border: 8px solid #add;
+    font-size:25px;
+    background-color:lightcoral ;
+}
+.ssc,.hsc,.gender{
+	accent-color: red;
+}
